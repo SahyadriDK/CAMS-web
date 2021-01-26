@@ -58,7 +58,7 @@ The latitude and Longitude are plotted using the `plot_points` function. This fu
 
 
 
-![Sample_constellations.png](/home/sahyadri/Desktop/CAMS-India)
+![Sample_constellations.png](https://github.com/SahyadriDK/CAMS-web/blob/main/Sample_constellations.png)
 
 
 **Some comments on the plot:**
